@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/1*halC1X4ydv_3yHYxKqvrwg.gif)](https://aryanil.io)
 <h1 align="center">Hi 👋, I'm Aryanil Dey</h1>
-<h3 align="center">A passionate Data Analysis from India</h3>
+<h3 align="center"> I am an Instigative Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
