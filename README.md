@@ -1,15 +1,15 @@
 [![MasterHead](https://miro.medium.com/v2/1*halC1X4ydv_3yHYxKqvrwg.gif)](https://aryanil.io)
 <h1 align="center">Hi 👋, I'm Aryanil Dey</h1>
-<h3 align="center"> I am an Instigative Data Analyst from India</h3>
+<h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
-- 🔭 I’m currently working on **Multifaceted Analysis on social media paradim**
+- 🔭 I’m currently working on **Multifaceted Analysis on social media paradim Using SAS**
+   
+- 🌱 I’m currently learning **Git, SAS and Machine Learning techniques**
 
-- 🌱 I’m currently learning **Sentiment analysis using SAS**
-
-- 🤝 I’m looking for help with **Business Enterprise Dashboard Analysis**
+- 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
