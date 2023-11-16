@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
-- 🔭 I’m currently working on **Multifaceted Analysis on social media paradim Using SAS**
+- 🔭 I’m currently working on **Predictive Analysis On Cancer Dataset Using Machine learning Techniques**
    
-- 🌱 I’m currently learning **Git, SAS and Machine Learning techniques**
+- 🌱 I’m currently learning **SAS, Machine Learning Techniques anf Python**
 
 - 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
 
