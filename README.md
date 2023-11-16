@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Predictive Analysis On Cancer Dataset Using Machine learning Techniques**
    
-- 🌱 I’m currently learning **SAS, Machine Learning Techniques anf Python**
+- 🌱 I’m currently learning **SAS, Machine Learning Techniques and Python**
 
 - 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
 
