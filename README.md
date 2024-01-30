@@ -19,9 +19,6 @@
 
 - ⚡ Fun fact **I can voice Donald duck**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> 
