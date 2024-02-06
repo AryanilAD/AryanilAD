@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Classification of Cancer Dataset Using Machine learning Techniques and Food Recipie Information Chatbot**
    
-- 🌱 Contineously Improving  **SAS || R || Machine Learning Techniques using Python**
+- 🌱 Contineously Improving on   **SAS || R || Machine Learning Techniques using Python**
 
 - 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
 
