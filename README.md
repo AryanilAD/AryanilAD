@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
-- 🔭 I’m currently working on **Predictive Analysis On Cancer Dataset Using Machine learning Techniques**
+- 🔭 I’m currently working on **Classification of Cancer Dataset Using Machine learning Techniques and Food Recipie Information Chatbot**
    
-- 🌱 I’m currently learning **SAS, Machine Learning Techniques and Python**
+- 🌱 Contineous Learning **SAS || R || Machine Learning Techniques || and Python**
 
 - 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **Data cleaning and Data Analysis**
+- 💬 Ask me about **Ml, DL, Data Analysis and Data Cleaning**
 
 - 📫 How to reach me **aryanilofficial26@gmail.com**
 
