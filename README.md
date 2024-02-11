@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/1*halC1X4ydv_3yHYxKqvrwg.gif)](https://aryanil.io)
+[![MasterHead](https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif)](https://aryanil.io)
 <h1 align="center">Hi 👋, I'm Aryanil Dey</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
