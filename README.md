@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif"alt="MasterHead">
+    <img src="https://www.lambdatest.com/resources/images/news24.gif"alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Aryanil Dey</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
