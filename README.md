@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif](https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/3f9fa29f5af2826e-da/s500x750/293c145794cc4b6a2164f5a24da3a6b6b20bcbe7.gif)" alt="MasterHead">
+    <img src="[[https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif](https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/3f9fa29f5af2826e-da/s500x750/293c145794cc4b6a2164f5a24da3a6b6b20bcbe7.gif)](https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/3f9fa29f5af2826e-da/s500x750/293c145794cc4b6a2164f5a24da3a6b6b20bcbe7.gif)" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Aryanil Dey</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
