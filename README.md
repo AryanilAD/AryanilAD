@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FLASK APPLICATION DEPLOYMENT ON AWS**
    
-- 🌱 Contineously Improving on **SAS || R || Machine Learning Techniques using Python || SQL || HTML**
+- 🌱 Contineously Improving on **SAS || R || Machine Learning Techniques using Python || SQL || HTML || Docker**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
