@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
-- 🔭 I’m currently working on **FLASK APPLICATION DEPLOYMENT ON AWS**
+- 🔭 I’m currently looing for collaboration **On GEN AI Projects**
    
 - 🌱 Contineously Improving on **SAS || R || Machine Learning Techniques using Python || SQL || HTML || Docker**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Ml, DL, Data Analysis and Data Cleaning**
 
-- 📫 How to reach me **aryanilofficial26@gmail.com**
+- 📫 How to reach me **aryanilofficial26@gmail.com, www.linkedin.com/in/aryanildey**
 
 - ⚡ Fun fact **I can voice Donald duck**
 
